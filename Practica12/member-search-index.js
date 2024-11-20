@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p12.Practica12","c":"Practica12","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"mx.unam.fi.poo.g1.p12.Practica12","c":"Practica12","l":"Practica12()","u":"%3Cinit%3E()"}];updateSearchResults();
